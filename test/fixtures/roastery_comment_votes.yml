@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  vote: false
+  user: one
+  roastery_comment: one
+
+two:
+  vote: false
+  user: two
+  roastery_comment: two
