@@ -1,0 +1,2 @@
+module FavouriteBeansHelper
+end

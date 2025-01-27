@@ -1,0 +1,2 @@
+module BeanCommentVotesHelper
+end

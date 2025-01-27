@@ -1,0 +1,2 @@
+module RoasteryCommentVotesHelper
+end
